@@ -1,7 +1,8 @@
 ---
 layout: frontpage
-title: Student Name
-description: Benjamin Harvey is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
+title: Olatunji Akinbule
+description: Olatunji Akinbule is a Data Analytics graduate stuent at The George Washington University. 
+
 keywords: statistics, data analytics
 ---
 
